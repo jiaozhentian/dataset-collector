@@ -23,10 +23,10 @@ func init() {
 	if err != nil {
 		panic(err)
 	}
+	sugarLogger = zap.S()
 	zap.S().Infof("logger init success")
 }
 
 func main() {
-	sugarLogger = zap.S()
 	sugarLogger.Infof("test logger")
 }
