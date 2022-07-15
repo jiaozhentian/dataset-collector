@@ -23,3 +23,7 @@ the project will support these dataset of algorithm, but I should relize step by
 - [ ] text categorization
 
 - [ ] ...
+
+## Note
+
+This project is still in development, so I will update the project frequently.
